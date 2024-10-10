@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "todo": "priya",
+      "id": 1
+    },
+    {
+      "todo": "nisha",
+      "id": 2
+    },
+    {
+      "todo": "mathi",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
